@@ -1,0 +1,5 @@
+FROM alpine
+
+ENV STUDENT_ID="99711"
+
+ENTRYPOINT echo "Hello - Student ID: $STUDENT_ID"
