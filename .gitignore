@@ -1,0 +1,13 @@
+# Logi
+*.log
+
+# Pliki tymczasowe
+*.tmp
+
+# Foldery wirtualnych środowisk
+venv/
+node_modules/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
